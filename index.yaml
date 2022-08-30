@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   gcsi:
   - apiVersion: v2
-    created: "2022-08-29T17:48:13.842298678+09:00"
+    created: "2022-08-30T16:01:22.335534469+09:00"
     dependencies:
     - name: nvme
       repository: file://charts/nvme
@@ -13,6 +13,6 @@ entries:
     name: gcsi
     type: application
     urls:
-    - gcsi-0.1.0.tgz
+    - https://jade0829.github.io/helm-charts/gcsi-0.1.0.tgz
     version: 0.1.0
-generated: "2022-08-29T17:48:13.84083328+09:00"
+generated: "2022-08-30T16:01:22.333959061+09:00"
